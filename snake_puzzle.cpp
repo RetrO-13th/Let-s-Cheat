@@ -14,7 +14,7 @@ int main()
     return 0;
 }
 
-/*  Printing number in a puzzle:
+/*  Printing numbers in a puzzle:
 
     we need to follow this algorithm:
 
